@@ -1,1 +1,5 @@
-# 5555
+# Method
+
+
+
+![image](figure2.png)
